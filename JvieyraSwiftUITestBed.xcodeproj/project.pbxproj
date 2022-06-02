@@ -11,6 +11,7 @@
 		5A16301D28479EA100B1A842 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A16301C28479EA100B1A842 /* Assets.xcassets */; };
 		5A16302028479EA100B1A842 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A16301F28479EA100B1A842 /* Preview Assets.xcassets */; };
 		5A1630262847A1EC00B1A842 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A16301A28479EA000B1A842 /* ContentView.swift */; };
+		5A93BAB128490EC300A27D82 /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A93BAB028490EC300A27D82 /* TimerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5A16301A28479EA000B1A842 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5A16301C28479EA100B1A842 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5A16301F28479EA100B1A842 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5A93BAB028490EC300A27D82 /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5A16301828479EA000B1A842 /* JvieyraSwiftUITestBedApp.swift */,
 				5A16301A28479EA000B1A842 /* ContentView.swift */,
+				5A93BAB028490EC300A27D82 /* TimerView.swift */,
 				5A16301C28479EA100B1A842 /* Assets.xcassets */,
 				5A16301E28479EA100B1A842 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A93BAB128490EC300A27D82 /* TimerView.swift in Sources */,
 				5A1630262847A1EC00B1A842 /* ContentView.swift in Sources */,
 				5A16301928479EA000B1A842 /* JvieyraSwiftUITestBedApp.swift in Sources */,
 			);
